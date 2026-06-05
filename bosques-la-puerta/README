@@ -1,0 +1,29 @@
+## Instalación
+
+1. Descarga todas las imágenes desde Unsplash (ver URLs en la documentación)
+2. Coloca las imágenes en la carpeta `assets/images/` con los nombres correctos
+3. Abre `index.html` en tu navegador o despliega en tu servidor web
+
+## Tecnologías utilizadas
+
+- HTML5 semántico
+- CSS3 (Flexbox, Grid, variables CSS)
+- JavaScript vanilla (sin frameworks)
+- SVG interactivo para el mapa
+- Google Fonts (Cormorant Garamond, DM Sans)
+- Font Awesome 6
+
+## Características
+
+- ✅ Diseño 100% responsive
+- ✅ Mapa interactivo de polígonos
+- ✅ Simulador de financiamiento
+- ✅ Galería de imágenes con lightbox
+- ✅ Formulario de contacto
+- ✅ Integración con WhatsApp
+- ✅ Animaciones scroll reveal
+- ✅ SEO optimizado
+
+## Contacto
+
+Desarrollado por Constructumoc – San Miguel, El Salvador

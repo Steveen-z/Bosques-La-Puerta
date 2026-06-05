@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bosques-la-puerta",
+  "compatibility_date": "2026-06-05",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "bosques-la-puerta"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
